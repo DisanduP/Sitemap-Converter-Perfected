@@ -1,0 +1,17 @@
+{
+  "name": "state-diagram",
+  "version": "1.0.0",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^14.0.2",
+    "dagre": "^0.8.5",
+    "xmlbuilder2": "^4.0.3"
+  }
+}
